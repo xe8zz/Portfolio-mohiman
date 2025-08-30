@@ -5,12 +5,19 @@ const ProData = [
     {
         id: 1,
         images: [
-            '/assets/a0475841147_16.jpg',
-            '/assets/Hubble_ultra_deep_field.jpg',
-            '/assets/heic2017a.jpg'
+            '/assets/Screenshot from 2025-08-30 20-34-56.png',
+            '/assets/Screenshot from 2025-08-30 20-35-48.png'
         ],
-        name: 'sign-in',
-        desc: 'I create responsive, modern, and visually appealing websites tailored to your needs!'
+        name: 'Accounts system',
+        desc: 'A fully functional front-end for a user authentication system, featuring distinct sign-in and registration forms. This project emphasizes a clean UI and an intuitive user experience by providing instant validation feedback on all input fields.'
+    },
+    {
+        id: 2,
+        images: [
+            '/assets/Screenshot from 2025-08-22 05-42-42.png'
+        ],
+        name: 'To-Do List',
+        desc: 'This project is a classic yet powerful demonstration of core web development principles, featuring a fully interactive To-Do list application.'
     }
 ]
 

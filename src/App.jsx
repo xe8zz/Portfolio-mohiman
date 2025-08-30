@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import Header from './Script/Header.jsx'
 import Body from './Script/Body.jsx'
 import Project from './Script/Projects.jsx'
+import Footer from './Script/Footer.jsx'
 import './index.css'
 
 function App() {
@@ -50,6 +51,7 @@ function App() {
       <Header></Header>
       <Body></Body>
       <Project></Project>
+      <Footer></Footer>
 
     </div>
   )
