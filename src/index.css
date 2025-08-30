@@ -1,7 +1,5 @@
 body {
   background-color: white;
-  /* يمكنك إضافة لون نص افتراضي هنا إذا أردت */
-  /* color: black; */
   transition-property: color, background-color, transform;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 500ms;

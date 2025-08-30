@@ -5,9 +5,9 @@ const ProData = [
     {
         id: 1,
         images: [
-            'src/assets/a0475841147_16.jpg',
-            'src/assets/Hubble_ultra_deep_field.jpg',
-            'src/assets/heic2017a.jpg'
+            '/assets/a0475841147_16.jpg',
+            '/assets/Hubble_ultra_deep_field.jpg',
+            '/assets/heic2017a.jpg'
         ],
         name: 'sign-in',
         desc: 'I create responsive, modern, and visually appealing websites tailored to your needs!'
